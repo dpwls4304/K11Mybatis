@@ -40,4 +40,5 @@ public interface MybatisDAOImpl {
 	
 	//삭제처리
 	public int delete(String idx, String id);
+	
 }
